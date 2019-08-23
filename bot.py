@@ -58,7 +58,7 @@ for filename in os.listdir('./cogs'):
 
 
 
-client.run('NjA2NDcxNjg0OTE2MjQ4NTc4.XV1uSw.CoFdVlj8ZdoMiqD1saLhh6UlW9U')
+client.run('process.env.BOT_TOKEN')
 
 
 
