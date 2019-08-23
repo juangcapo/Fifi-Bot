@@ -1,9 +1,1 @@
-git+https://github.com/Rapptz/discord.py@rewrite
-pandas
-random
-os
-itertools
-requests
-xmltodict
-pprint
-json
+git+https://github.com/Rapptz/discord.py
