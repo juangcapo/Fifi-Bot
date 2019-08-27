@@ -1,1 +1,8 @@
 git+https://github.com/Rapptz/discord.py
+os==3.7
+itertools==3.3
+request==2.21.0
+random==3.6
+xmltodict==0.12.0
+pprint==3.4
+json==3.6
